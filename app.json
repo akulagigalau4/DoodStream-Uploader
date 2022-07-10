@@ -17,7 +17,7 @@
         "web",
         "series"
     ],
-    "repository" : "https://github.com/ipoicfrgbg/DoodStream-Uploader",
+    "repository" : "https://github.com/akulagigalau4/DoodStream-Uploader",
     "env" : {
         "BOT_TOKEN" : {
             "description" : "Get From https://t.me/BotFather"
